@@ -34,8 +34,11 @@
 </p>
 
 <br>
+
 [![My stats](https://github-readme-stats.vercel.app/api?username=minsu-zip&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsu-zip&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
+
 <a href="https://opgc.me/#/users/minsu-zip" target="_blank"><img src="https://api.opgc.me/githubs/users/minsu-zip/tag/?theme=basic" /></a>
