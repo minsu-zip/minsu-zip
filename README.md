@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div align="center"><h2>개발자 생태계를 위해 노력하는 개발자 박민수입니다.🙌</h2></div>
+<div><h2>개발자 생태계를 위해 노력하는 개발자 박민수입니다.🙌</h2></div>
 
 ### ☎ Contact
 <a href="https://bit.ly/minsu_zip" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
